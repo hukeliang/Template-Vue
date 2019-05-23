@@ -1,6 +1,6 @@
 # mywebsite
 
-> 这是我的个人博客网站，主要用来记录分享项目中遇到的一些问题以及解决方案。
+> 一个Vue Demo
 
 ## Build Setup
 
